@@ -36,5 +36,4 @@ http://www.sketchwarehelp.com/
 
 # <span style='background-color:#b90000;'>[DOWNLOAD SOURCECODE](https://github.com/shajahanubaid/All-downloader/raw/main/alldownloader-source.zip)</span>
 
-# <span style='background-color:#b90000;'>[Download All-downloader project at SketchMallu] 
-(https://sketchmalls.page.link/eD61)</span>
+# <span style='background-color:#b90000;'>[Download All-downloader project at SketchMallu](https://sketchmalls.page.link/eD61)</span>
